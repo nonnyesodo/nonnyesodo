@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Esodo John and I'm a Mobile Developer, from Nigeria</h2>
+<h2 align="left">Hi 👋! My name is  Esodo John and I'm a Mobile Developer</h2>
 
 ###
 
